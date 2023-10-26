@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CenaPrincipal.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: df1c608d26736874abdd8ce227c7778a
+  - enabled: 1
+    path: Assets/Scenes/TelaDeFim.unity
+    guid: 8c4deffa2bfcdec4e8a5737041ac6c69
+  - enabled: 1
+    path: Assets/Scenes/TelaDeFim2.unity
+    guid: c250c7a7aef44d542aa5ff1c35d53f1e
+  - enabled: 1
+    path: Assets/Scenes/TelaInicio.unity
+    guid: 78ae8fcf89cb2d140a3ddcf6a2ddb965
+  - enabled: 1
+    path: Assets/Scenes/TelaWin.unity
+    guid: bddb7774dc6077548b04dcb15126e039
   m_configObjects: {}
